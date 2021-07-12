@@ -1,0 +1,47 @@
+@import url('https://font.googleapis.com/css2?family=Ranchers&display=swap');
+main{
+  height: 150%;
+ display: grid;
+ place-items: center;
+  background-color: brown;
+  width: 1500px;
+}
+.container{
+  text-align: center;
+}
+.container h2{
+
+ 
+  background:coral;
+  color: blue;
+padding: 5rem;
+border-radius: 15rem;
+margin-bottom: 3.6rem;
+
+}
+.color{
+  color: darkcyan;
+}
+.btn-hero{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-transform: lowercase;
+  background: darkgray;
+  color: black;
+  letter-spacing: 2rem;
+  display: inline-block;
+  padding: 4rem 3rem;
+  font: weight 800px,bolder;
+  transition: all;
+  border: blue;
+  cursor: crosshair;
+  box-shadow: crimson;
+  border-radius: 3.5rem;
+font-size: medium;
+
+}
+.btn-hero:hover{
+  color: bisque;
+  background: cadetblue;
+
+
+}
